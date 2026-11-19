@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +40,7 @@ th { background: #e8f0fe; }
 <body>
 
 <header>
-<h1>My College HTML Project</h1>
+<h1>My College Project</h1>
 <p>Practical Work: Table and List</p>
 </header>
 
